@@ -9,12 +9,12 @@ Make sure that the path to python(the first line) is correct for what system you
 
 You must install the BeautifulSoup library first. To do so, simply do 
 
-  sudo pip install beautifulsoup4
+  <code>sudo pip install beautifulsoup4</code>
   
 If you get an error that pip is not recognized then first do
   
-  sudo easy_install pip
+  <code>sudo easy_install pip</code>
   
 Additionaly to bypass cloud-flare you must install cloudflare-scrape. To do so, simply do 
 
-  sudo pip install cfscrape
+  <code>sudo pip install cfscrape</code>
